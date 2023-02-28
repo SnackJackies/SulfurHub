@@ -1,1 +1,3 @@
-# SulfurHub
+#Project Sulfur Hub
+
+From SnackJackies
